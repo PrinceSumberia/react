@@ -1,5 +1,12 @@
 # @primer/components
 
+## 35.2.1
+
+### Patch Changes
+
+- [#2013](https://github.com/primer/react/pull/2013) [`5f6c5e22`](https://github.com/primer/react/commit/5f6c5e2249c9bb4c6a6b744755ea4607d10a0b74) Thanks [@mperrotti](https://github.com/mperrotti)! - 1. Fix a spacing issue with the loading spinner in a `TextInputWithTokens`
+  2. Bolds form validation text to be visually balanced with the icon
+
 ## 35.2.0
 
 ### Minor Changes
